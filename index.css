@@ -12,3 +12,6 @@ body {
 h1 {
     font-family: Karla, extra-bold;
 }
+.passwords {
+    display: flexbox;
+}
