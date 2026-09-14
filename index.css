@@ -3,7 +3,8 @@ body {
     color: #FFFFFF
 }
 frame {
-    background: #1F2937
+    background: #1F2937;
+    padding: 10px
 }
 .textgreen {
     color: #4ADF86
