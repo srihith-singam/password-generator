@@ -11,7 +11,8 @@ body {
     color: #4ADF86
 }
 h1 {
-    font-family: Karla, extra-bold;
+    font-family: Karla, sans-serif;
+    font-weight: 800
 }
 .passwords {
     display: flexbox;
