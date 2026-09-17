@@ -1,6 +1,6 @@
 body {
     background: #1C1C1C;
-    color: #FFFFFF
+    color: #FFFFFF;
 }
 .frame {
     background: #1F2937;
@@ -8,11 +8,12 @@ body {
     padding: 20px;
 }
 .textgreen {
-    color: #4ADF86
+    color: #4ADF86;
 }
 h1 {
     font-family: Karla, sans-serif;
-    font-weight: 800
+    font-weight: 800;
+    font-size: 40px;
 }
 .passwords {
     display: flexbox;
