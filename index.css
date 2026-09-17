@@ -44,6 +44,7 @@ h1 {
     background-color: #10B981;
     border: none;
     padding: 10px;
+    border-radius: 10px
 }
 #horizontial-line {
     width: 446px;
