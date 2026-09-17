@@ -4,7 +4,8 @@ body {
 }
 .frame {
     background: #1F2937;
-    margin: 10px
+    margin: 20px;
+    padding: 20px;
 }
 .textgreen {
     color: #4ADF86
